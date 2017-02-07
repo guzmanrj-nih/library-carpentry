@@ -1,3 +1,5 @@
 Hello world!
 Still testing
 Now back to shell
+
+This is a test of forking each other. 
